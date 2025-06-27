@@ -1,0 +1,8 @@
+aws_access_key: "AKIA25LR******DZ"
+aws_secret_key: "4/uefjOrEm7SEwN+x**********2UqWM5ZC"
+region: "eu-north-1"
+key_name: "TEST"
+instance_type: "t3.micro"
+image_id: "ami-00c8ac9147e19828e"
+
+
